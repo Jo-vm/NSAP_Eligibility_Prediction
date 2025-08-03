@@ -1,0 +1,18 @@
+[
+	{
+		"fields": [
+			"prediction",
+			"probability"
+		],
+		"values": [
+			[
+				"IGNOAPS",
+				[
+					0,
+					1,
+					0
+				]
+			]
+		]
+	}
+]
